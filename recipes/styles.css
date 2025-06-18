@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1,
+a {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    display: block;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    width: 30%;
+    margin: 10px auto;
+}
+
+.description,
+.steps,
+.ingredients {
+    width: 60%;
+    margin: 10px auto;
+}
