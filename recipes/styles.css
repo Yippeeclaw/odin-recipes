@@ -31,4 +31,8 @@ img {
     .ingredients {
         margin: 0px;
     }
+
+    img {
+        width: 80%;
+    }
 }
