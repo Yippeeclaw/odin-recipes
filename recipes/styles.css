@@ -30,6 +30,6 @@ img {
     .description,
     .steps,
     .ingredients {
-        margin: 0px;
+        margin: 0px auto;
     }
 }
