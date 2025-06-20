@@ -22,7 +22,7 @@ img {
 .description,
 .steps,
 .ingredients {
-    margin: 10px 60vw;
+    margin: 10px 20vw;
 }
 
 @media (max-width: 500px) {
